@@ -12,3 +12,6 @@ B4: Xây dựng các chức năng thêm sửa xóa cho dự án.
 P/s: Trong trương hợp khó có thể tham khảo code ở nhánh final
 
   Eat - Sleep - Code - Repeat
+
+Hình ảnh dự án sau khi đã phát triển xong
+![image](https://user-images.githubusercontent.com/56016006/197488969-a1c6ac67-36cc-411b-b30c-1efc12242c53.png)
