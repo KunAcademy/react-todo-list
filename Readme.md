@@ -2,16 +2,20 @@
 Step to start.
 
 Step 1: Clone this projec to your local machine.
+
 Command: git clone https://github.com/KunAcademy/react-todo-list/tree/start
 
 Step 2: Move to project directory and install necessary library
+
 Command: 
-  cd react-todo-list
-  npm install / yarn add
+  - cd react-todo-list
+
+  - npm install / yarn add
 
 Step 3: Start project server on port 3000.
+
 Command: 
-  npm run start / yarn start
+  - npm run start / yarn start
 
 Step 4: Build CRUD function (Create Read Update Delete) 
 
